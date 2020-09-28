@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: afro1999/typography # Path to your GitHub repository
+  repo: Afro1999/Typography # Path to your GitHub repository
   branch: master # Branch to update (master by default)
   site_domain: textstyles.netlify.app #Your site on netlify
   use_graphql: true

@@ -20,3 +20,7 @@ For obvious reasons, I won't do *all* of the Universal logos or we'd be here unt
 ![The logo as of 2012](../uploads/universal-pictures-100th-anniversary-logo1.jpg)
 
 The most recent logo bears much of the same feel that the first Universal logo had - now with an image of the Earth and the large, white company name placed in front of the Earth.
+
+![](../uploads/d5b1bdae7e67eb5bbae32a1dde9b4353.jpg "Universal Serif")
+
+The name of the font used is, un-ironically, named Universal Serif. The letters are bold-like and wide, almost looking spaced out and the edges of the lettering have sharp-like edges.

@@ -2,7 +2,7 @@
 layout: post
 title: Universal staying... universal
 date: 2020-10-05T14:56:37.157Z
-header_feature_image: ../uploads/1200px-universal_studios_2013_alternative_ii.svg.png
+header_feature_image: ../uploads/113-1138489_universe-studios-logo-universal-music.png
 comments: true
 ---
 Owned by Comcast and founded in 1912 by Carl Laemmle, Universal Studios is a film production company that has (probably) produced some of your all-time favourites. As a part of the "Big Five" Universal is one of the most successful film studios out there.

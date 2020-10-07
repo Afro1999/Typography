@@ -4,8 +4,8 @@ header_text: Typography Blog
 footer_text: Copyright 2020 Malachi Martin
 header_feature_image: ""
 bannerheight: 20vmax
-logo: /uploads/logo.jpg
-favicon: /uploads/favicon.ico
+logo: ../uploads/blog-logo.png
+favicon: ../uploads/blog-logo.png
 gridlayout: false
 fixednavbar: false
 upzoom: true

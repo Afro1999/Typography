@@ -1,8 +1,8 @@
 title: TextStyles
 description: ""
-header_text: Typography Blog
+header_text: ""
 footer_text: Copyright 2020 Malachi Martin
-header_feature_image: ""
+header_feature_image: ../uploads/images.png
 bannerheight: 20vmax
 logo: ../uploads/blog-logo.png
 favicon: ../uploads/blog-logo.png

@@ -25,4 +25,6 @@ The most recent logo bears much of the same feel that the first Universal logo h
 
 ![](../uploads/d5b1bdae7e67eb5bbae32a1dde9b4353.jpg)
 
-The name of the font used is, un-ironically, named Universal Serif. The letters are bold-like and wide, almost looking spaced out and the edges of the lettering have sharp-like edges. The typography is also eye catching as it is large, at the forefront and spread across the screen.
+The name of the font used is, un-ironically, named Universal Serif. Although sharing some similarities with the Serif font family and even having Serif in its name, Universal Serif's letters are bold and thick, almost looking spaced out and the edges of the lettering have sharp-like edges. The typography is also eye catching as it is large and at the forefront, spread across the screen. 
+
+In terms of typographic voice, I will have to go with it being digital more than organic as the letters itself look to be streamlined and synthetic, instead of having the organic feel of, in example, cursive. It is a blend between empathetic and tentative, not looking to tentative but too synthetic for empathy. Due to Universal Serif's perfect, flawless-like design it leans more toward luxury. Finally, I think Universal Serif is rigid because of its, like I said earlier, thick and synthetic look.

@@ -3,7 +3,7 @@ layout: page
 title: About
 subtitle: Movies n' stuff
 permalink: /about/
-date: 2020-06-29T15:36:12.231Z
+date: 2020-10-12T17:08:40.702Z
 header_feature_image: ../uploads/blog-logo2.png
 published: true
 tags: null

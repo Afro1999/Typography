@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disney, forever in our hearts
+title: Please don't sue me, Disney
 date: 2020-10-12T17:20:09.159Z
 header_feature_image: ../uploads/disney.png
 caption: Yes, I went straight to Disney next
@@ -12,4 +12,6 @@ With their origins rooted in content and products aimed at children (still very 
 
 ![Disney's most recent studio logo](../uploads/disney-film.jpg)
 
-Regarding its typography, it was initially believed to be the handwriting of Walt Disney himself but has been disproved (another fun fact). Coined as Waltograph, the typography itself seems very much relaxed and features a soft, curvy type looking similar to handwriting of sort, possibly a derivative of cursive with its own 'flair'?
+Regarding its typography, it was initially believed to be the handwriting of Walt Disney himself but has been disproved (another fun fact). Coined as Waltograph, the typography itself seems very much relaxed and features a soft, curvy type looking similar to handwriting of sort, possibly a derivative of cursive with its own 'flair'? In terms of typographic voice, I feel that Waltograph is organic, due to the cursive-esque style. Empathetic in regard to the relaxed, almost friendly look. In the middle of both luxury and squalor, it does not look unpleasant but it also has a smooth style which leans near luxury. Waltograph is casual in the fact that it looks similar to one's handwriting. 
+
+![Waltograph in all its glory](../uploads/waltograph.jpg)

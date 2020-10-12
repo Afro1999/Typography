@@ -1,20 +1,17 @@
 ---
 layout: page
 title: About
+subtitle: Movies n' stuff
 permalink: /about/
 date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+header_feature_image: ""
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
+TextStyles (title completely unrelated) is a blog that explores and analyses the typography used in film production logos as well as film logos itself.
 
-This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
+Hence this, the logo I have made for the blog is a clapperboard - which is a recognisable device synonymous with filmmaking, providing assistance in synchronising picture and sound as well as to mark scenes and takes that have been filmed in a production. I believed it would be a fitting logo in regards to the blog's content.
 
-This file is an example of a page in Jekyll, that automatically shows up in the header navigation, you can delete or modify this file freely.
-
-This file is saved inside the _pages_ folder and is saved as _about.md_ . Any file in this folder (as long as it has  the YAML header) will automatically show up as a link in the header bar.
-
-You should use **markdown**to write this text and this will automatically be converted to `HTML`.
+In terms of the typography of the logo itself I used Courier New for the initials 'TS' (TextStyles), seeing as Courier New is the font used universally for film scripts. Again, my reasoning for this was that I thought it was fitting to the content.

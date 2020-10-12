@@ -12,4 +12,4 @@ With their origins rooted in content and products aimed at children (still very 
 
 ![Disney's most recent studio logo](../uploads/disney-film.jpg)
 
-Regarding its typography, it was initially believed to be the handwriting of Walt Disney himself but has been disproved (another fun fact). Coined as Waltograph, the typography itself seems very much relaxed and features a soft, curvy type looking similar to handwriting of sort.
+Regarding its typography, it was initially believed to be the handwriting of Walt Disney himself but has been disproved (another fun fact). Coined as Waltograph, the typography itself seems very much relaxed and features a soft, curvy type looking similar to handwriting of sort, possibly a derivative of cursive with its own 'flair'?

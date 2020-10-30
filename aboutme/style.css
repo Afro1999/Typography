@@ -99,13 +99,13 @@ body {
 
 /* Text Highlight Colour */
 .highlight {
-	color: #C32E28;
+	color: 	#C0C0C0;
 	font-weight: 500;
 }
 
 /* Fact Links */
 .fact_link {
-	color: #C32E28;
+	color: 	#C0C0C0;
 	font-weight: 500;
 	text-decoration: none;
 	border-bottom: 3px solid #C32E28;

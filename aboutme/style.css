@@ -34,7 +34,7 @@ body {
 
 /* Hello text */
 .hello_title {
-	color: black;
+	color: red;
 	text-align: center;
 	font-size: 50px;
 	margin-top: 10px;
@@ -42,7 +42,7 @@ body {
 }
 
 .hello_subtitle {
-	color: black;
+	color: red;
 	text-align: center;
 	font-size: 19px;
 	margin-top: 0px;

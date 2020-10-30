@@ -20,11 +20,11 @@ body {
 }
 
 .profile_picture {
-	background-image: url("Me.jpg.jpg");
+	background-image: url(Me.jpg.jpg);
 	background-position: center;
 	width: 160px;
 	height: 160px;
-	border: red 5px solid;
+	border: gold 2px solid;
 	border-radius: 50%;
 	background-size: 105%;
 
@@ -34,7 +34,7 @@ body {
 
 /* Hello text */
 .hello_title {
-	color: red;
+	color: gold;
 	text-align: center;
 	font-size: 50px;
 	margin-top: 10px;
@@ -42,7 +42,7 @@ body {
 }
 
 .hello_subtitle {
-	color: red;
+	color: gold;
 	text-align: center;
 	font-size: 19px;
 	margin-top: 0px;
@@ -64,12 +64,12 @@ body {
 
 /* ---- Few Things Banner ---- */
 .few_things_banner {
-	background-color: #F00E0E;
+	background-color: #FFD700;
 }
 
 .few_things_text {
-	color: black;
-	font-size: 30px;
+	color: white;
+	font-size: 35px;
 	text-align: center;
 	margin: 0;
 	padding: 15px;
@@ -88,7 +88,7 @@ body {
 .facts p {
 	text-align: left;
 	color: #515151;
-	font-size: 40px;
+	font-size: 30px;
 	font-weight: 300;
 	line-height: 70px;
 

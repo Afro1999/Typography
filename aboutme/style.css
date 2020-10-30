@@ -20,7 +20,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url(Me.jpg.jpg);
+	background-image: url(img/"Me.jpg.jpg");
 	background-position: center;
 	width: 160px;
 	height: 160px;

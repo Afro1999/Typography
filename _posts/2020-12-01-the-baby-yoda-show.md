@@ -12,4 +12,4 @@ The Mandalorian, arguably one of the most talked about streaming shows currently
 
 The Mandalorian's typgraphy is quite simple, but the logo itself has a lot going on for it. As shown above, you can see that the Mandalorian's typography serves as, sort of, a window that looks into the world of the TV show - with the title character serving as the second 'A' in 'Mandalorian' as he walks through what seems to be a desolate planet. The planet's sun shines through the logo and in a way, it looks as if the sun's rays are lighting up the logo. The logo is very creative.
 
-In terms of typography, it seems that it is derived from or, at the very least, inspired by Font Bureau's Agency Black as can be seen in its bald and rigid design.
+In terms of typography, it seems that it is derived from or, at the very least, inspired by a capitilised and boldened version of Font Bureau's Agency Black. .

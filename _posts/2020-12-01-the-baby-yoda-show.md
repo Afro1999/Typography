@@ -14,4 +14,6 @@ The Mandalorian's typeface is quite simple, but the logo itself has a lot going 
 
 Rounding back to the typface, it seems that it is derived from or, at the very least, inspired by a capitilised and boldened version of Font Bureau's Agency Black. As mentioned before, the typeface is simple but due to everything that is going on within the logo itself, it remains not only eye-catching but also recognisable - especially with the title character serving as the Agency Black's 'A' instead of using a traditional 'A'.
 
+All in all, The Mandalorian's logo and typeface is interesting and eye-catching with its style meeting the aesthetic of the show.
+
 ![](../uploads/agency-black.gif)

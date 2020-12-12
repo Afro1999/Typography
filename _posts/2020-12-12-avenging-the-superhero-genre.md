@@ -11,4 +11,6 @@ The Avengers, a franchise within another franchise; the Marvel Cinematic Univers
 
 ![](../uploads/aven.jpg)
 
-Like any other great and recognisable franchise, it must come with a great and recognisable logo. Used across all type of Avengers media, and not just the films, the Avengers logo has a basic but recognisable logo that almost anyone in the world can spot.
+Like any other great and recognisable franchise, it must come with a great and recognisable logo. Used across all type of Avengers media, and not just the films, the Avengers logo has a basic but recognisable logo that almost anyone in the world can spot. 
+
+The typeface is

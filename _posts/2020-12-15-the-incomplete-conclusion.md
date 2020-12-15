@@ -10,3 +10,5 @@ And introducing another member of Hollywood's 'Big Five' - Paramount Pictures! L
 ![](../uploads/og-meta.png)
 
 For starters, Paramount has a unique and, somewhat, tranquil logo as the studio's name rests on top of a mountain peak with twenty-two stars arched over it and in the background, a sunset or sunrise shines over the almost clear clouds and numerous other, albeit smaller, mountains. It is quite mesmerising once you take it all in, its a nice thing to watch before a film starts I'd say.
+
+The typeface matches the calming aesthetic of the overall logo, with
